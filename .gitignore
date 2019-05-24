@@ -1,8 +1,9 @@
 
 # Data files
-data/
+data/*.txt
 .env/
 .idea/*
+.ipynb_checkpoints/
 
 
 # Byte-compiled / optimized / DLL files
